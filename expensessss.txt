@@ -1,0 +1,1 @@
+[{"amount": 100, "category": "coffee"}, {"amount": 15, "category": "lunch"}, {"amount": 100, "category": "taxi"}, {"amount": 100, "category": "shopping"}, {"amount": 100, "category": "coffee"}, {"amount": 100, "category": "lunch"}, {"amount": 100, "category": "taxi"}, {"amount": 100, "category": "shopping"}]
